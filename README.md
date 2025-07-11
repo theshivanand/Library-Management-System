@@ -39,12 +39,16 @@ A simple **console-based Library Management System** built using **Core Java** w
 1. Clone or download the repository
 2. Compile the program:
 
-```bash
-javac LibraryApp.java
 
 ## Project Members
 1. Shivanand Yengul
 2. Shubham Gundeti
 3. Darshan kassa
 4. Athrav Pujari
+
+
+```bash
+javac LibraryApp.java
+
+
 
